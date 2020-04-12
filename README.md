@@ -4,16 +4,16 @@
 
 ### Gameplay Features
 - [x] Advanced Locomontion System
- 	* Escalar dutos altos
- 	* Fazer ruido para distração
+ * Escalar dutos altos
+ * Fazer ruido para distração
 - [ ] Advanced Locomontion System
-	* Tacar item para distração
- 	* Lanterna
+ * Tacar item para distração
+ * Lanterna
 
 ### AI Features
 - [x] Freddy/Bonnie/Chica/Foxy
-	* patrulia em locais dinamicos
-    	* Agachar e acessar duto baixos
+ * patrulia em locais dinamicos
+ * Agachar e acessar duto baixos
 - [ ] Advanced Locomontion System
-    	* Jumpscare e morte
-    	* Detecção de movimento
+ * Jumpscare e morte
+ * Detecção de movimento
