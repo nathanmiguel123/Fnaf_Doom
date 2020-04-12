@@ -7,7 +7,7 @@
  	* Escalar dutos altos
  	* Fazer ruido para distração
 - [ ] Advanced Locomontion System
-	 * Tacar item para distração
+	* Tacar item para distração
  	* Lanterna
 
 ### AI Features
