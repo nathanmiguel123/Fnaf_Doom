@@ -6,6 +6,8 @@
 - [x] Advanced Locomontion System
  * Escalar dutos altos
  * Fazer ruido para distração
+ * Steam Overlay UI
+ * Steam Party/Multplayer
 - [ ] Advanced Locomontion System
  * Tacar item para distração
  * Lanterna
