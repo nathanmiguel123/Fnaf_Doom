@@ -8,14 +8,11 @@
  * Fazer ruido para distração
  * Steam Overlay UI
  * Steam Party/Multplayer
-- [ ] Advanced Locomontion System
- * Tacar item para distração
- * Lanterna
 
 ### AI Features
 - [x] Freddy/Bonnie/Chica/Foxy
  * patrulia em locais dinamicos
  * Agachar e acessar duto baixos
-- [ ] Advanced Locomontion System
- * Jumpscare e morte
- * Detecção de movimento
+ * separação de players multiplayer
+ * Perseguição dinamica(se tiver dois players perto ela escolhe a melhor presa)
+ 
